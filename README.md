@@ -58,8 +58,8 @@ Todas las tecnologías mencionadas anteriormente fueron utilizadas en este proye
 ---
 
 ### 📫 How to reach me | Cómo contactarme
-- Email: jose@example.com  
-- LinkedIn: [linkedin.com/in/josejchale](https://linkedin.com/in/josejchale)  
+- Email: chalejosejuan@gmail.com  
+- LinkedIn: [linkedin.com/in/josejchale](https://www.linkedin.com/in/jose-juan-chale-ku-525ba6256/)  
 - GitHub: [github.com/josejchale](https://github.com/josejchale)
 
 ---
