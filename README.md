@@ -48,6 +48,13 @@ Todas las tecnologías mencionadas anteriormente fueron utilizadas en este proye
 - Kanban workflows and task organization  
 - Git workflows and Conventional Commits  
 
+- React + TypeScript
+- Consumo de APIs REST con Axios
+- Gestión de estado global con Redux
+- Diseño atómico y arquitectura de componentes
+- Flujos de trabajo Kanban y organización de tareas
+- Flujos de trabajo con Git y uso de Conventional Commits
+
 ---
 
 ### 📫 How to reach me | Cómo contactarme
