@@ -1,55 +1,69 @@
 ## Hi there 👋 | ¡Hola a todos! 👋
 
-I'm **Jose Chale**, a passionate developer who loves working on web and software projects.  
-Soy **José Chalé**, un desarrollador apasionado que disfruta trabajando en proyectos web y de software.  
+I'm **José Chale**, a Frontend developer focused on building modern, responsive web applications.  
+Soy **José Chale**, un desarrollador frontend enfocado en construir aplicaciones web modernas y responsivas.
 
-### 🔭 I’m currently working on... | Actualmente estoy trabajando en...
-- Building web applications using TypeScript & React.  
-- Developing APIs with Node.js and Express.  
-- Improving my DevOps skills with Docker and Kubernetes.  
+---
 
-- Creando aplicaciones web con TypeScript y React.  
-- Desarrollando APIs con Node.js y Express.  
-- Mejorando mis habilidades en DevOps con Docker y Kubernetes.  
+### 🔧 Tech Stack | Tecnologías que uso
+- ⚛️ React with TypeScript  
+- 📡 Axios for API consumption  
+- 🧠 Redux for state management  
+- 📦 Atomic Design for reusable components  
+- 📈 Kanban methodology for project organization  
+- ✅ Conventional Commits for clean and consistent history
 
-### 🌱 I’m currently learning... | Actualmente estoy aprendiendo...
-- Advanced TypeScript and Next.js  
-- Cloud services (AWS, Firebase)  
-- Software architecture best practices  
+---
 
-- TypeScript avanzado y Next.js  
-- Servicios en la nube (AWS, Firebase)  
-- Mejores prácticas de arquitectura de software  
+### 💼 Experience | Experiencia
+I’ve worked on a **Point of Sale (POS)** system that manages:
+- 👤 Customers  
+- 📦 Plans  
+- 📅 Subscriptions  
+- 💰 Payment tracking  
 
-### 👯 I’m looking to collaborate on... | Busco colaborar en...
-- Open-source projects  
-- Web development challenges  
-- Tech communities and mentoring  
+He trabajado en un sistema **Punto de Venta (POS)** que administra:
+- 👤 Clientes  
+- 📦 Planes  
+- 📅 Suscripciones  
+- 💰 Seguimiento de pagos  
 
-- Proyectos de código abierto  
-- Retos de desarrollo web  
-- Comunidades tecnológicas y mentoría  
+All of the technologies listed above were used in this project.  
+Todas las tecnologías mencionadas anteriormente fueron utilizadas en este proyecto.
 
-### 🤔 I’m looking for help with... | Necesito ayuda con...
-- Optimizing performance in large-scale applications  
-- Learning Rust and WebAssembly  
+---
 
-- Optimizar el rendimiento en aplicaciones a gran escala  
-- Aprender Rust y WebAssembly  
+### 🌱 Currently learning | Actualmente estoy aprendiendo
+- 🔧 Backend development with **Node.js**  
+- 📘 Laravel as a PHP framework  
+- ⚙️ Angular as a frontend framework
 
-### 💬 Ask me about... | Pregúntame sobre...
-- TypeScript, React, and Node.js  
-- Best coding practices  
-- Clean architecture and design patterns  
+---
 
-- TypeScript, React y Node.js  
-- Mejores prácticas de programación  
-- Arquitectura limpia y patrones de diseño  
+### 💬 Ask me about | Pregúntame sobre
+- React + TypeScript  
+- Consuming REST APIs with Axios  
+- Managing global state with Redux  
+- Atomic Design and component architecture  
+- Kanban workflows and task organization  
+- Git workflows and Conventional Commits  
+
+---
 
 ### 📫 How to reach me | Cómo contactarme
-- Email: chalejosejuan@gmail.com
+- Email: jose@example.com  
+- LinkedIn: [linkedin.com/in/josejchale](https://linkedin.com/in/josejchale)  
+- GitHub: [github.com/josejchale](https://github.com/josejchale)
+
+---
 
 ### ⚡ Fun fact | Dato curioso
-- I love solving algorithm challenges in my free time!  
-- ¡Me encanta resolver desafíos de algoritmos en mi tiempo libre!  
+🎸 I play guitar and bass  
+🌱 I enjoy agricultural work  
+✝️ I'm a Presbyterian  
+🧑‍💻 I'm 22 years old and from Yucatán, Mexico  
 
+🎸 Toco guitarra y bajo  
+🌱 Me gusta el trabajo agrícola  
+✝️ Soy presbiteriano  
+🧑‍💻 Tengo 22 años y soy de Yucatán, México  
